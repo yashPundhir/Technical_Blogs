@@ -6,10 +6,10 @@
 
 ---
 
--  > ## [Rest & Spread Operators in JS](https://yashpundhir.hashnode.dev/preview/6432847316f390000fb546fe#heading-rest-operator-in-case-of-js-arrays)
+-  > ## [Rest & Spread Operators in JS](https://yashpundhir.hashnode.dev/preview/6432847316f390000fb546fe)
 
 ---
 
-- > ## [JavaScript Array & It's Methods](https://hashnode.com/draft/63a0628eaafcb79c00aa926b)
+- > ## [JavaScript Array & It's Methods](https://yashpundhir.hashnode.dev/preview/63a0628eaafcb79c00aa926b)
 
 ---
