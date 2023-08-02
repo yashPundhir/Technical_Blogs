@@ -10,6 +10,6 @@
 
 ---
 
-- > ## [JavaScript Array & It's Methods](https://yashpundhir.hashnode.dev/preview/63a0628eaafcb79c00aa926b)
+- > ## [JavaScript Array & It's Methods](https://yashpundhir.hashnode.dev/javascript-array-and-its-methods)
 
 ---
