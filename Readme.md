@@ -6,7 +6,7 @@
 
 ---
 
--  > ## [Rest & Spread Operators in JS](https://yashpundhir.hashnode.dev/preview/6432847316f390000fb546fe)
+-  > ## [Rest & Spread Operators in JS](https://yashpundhir.hashnode.dev/rest-spread-operators-in-javascript)
 
 ---
 
